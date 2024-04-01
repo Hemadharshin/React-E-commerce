@@ -1,0 +1,30 @@
+
+.button{
+  background-color: red;
+  height: 32px;
+  color: white;
+  border: none;
+  border-radius: 3px;
+
+}
+.tit{
+  margin-top: 20px;
+  color: blue;
+  font-size: medium;
+}
+
+.imag{
+  padding: 10px;
+  height: 220px;
+  width:330px;
+  
+}
+.price{
+  padding: 30px;
+  font-size: x-large;
+}
+
+.total{
+  color:rebeccapurple;
+
+}

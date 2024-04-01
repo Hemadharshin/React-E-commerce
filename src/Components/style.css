@@ -1,0 +1,26 @@
+.topic{
+  color:darkblue;
+  font-size:30px;
+  text-shadow:2px 2px 8px pink;
+}
+
+.img{
+  padding: 10px;
+  height: 250px;
+  width: 200px;
+}
+
+.card a{
+  text-decoration: none;
+  
+} 
+.card a h4:nth-child(2){
+  font-size: medium;
+}
+.card a h5:nth-child(3){
+  font-size:large ;
+  color:red
+}
+
+
+
